@@ -1,0 +1,39 @@
+Wed Mar 28 2018 15:29:39 GMT-0700 (Pacific Daylight Time): TypeError: Cannot read property 'list' of undefined
+
+
+Wed Mar 28 2018 15:30:16 GMT-0700 (Pacific Daylight Time): TypeError: helpers.isURLArchived is not a function
+
+
+Wed Mar 28 2018 15:30:16 GMT-0700 (Pacific Daylight Time): TypeError: Cannot read property 'currentRetry' of undefined
+
+
+Wed Mar 28 2018 15:30:19 GMT-0700 (Pacific Daylight Time): AssertionError: expected [ 'www.example.com' ] to deeply equal [ 'www.example.com', 'www.google.com' ]
+
+
+Wed Mar 28 2018 15:32:01 GMT-0700 (Pacific Daylight Time): TypeError: helpers.isURLArchived is not a function
+
+
+Wed Mar 28 2018 15:32:01 GMT-0700 (Pacific Daylight Time): TypeError: Cannot read property 'currentRetry' of undefined
+
+
+Wed Mar 28 2018 15:32:04 GMT-0700 (Pacific Daylight Time): AssertionError: expected [ 'www.example.com' ] to deeply equal [ 'www.example.com', 'www.google.com' ]
+
+
+Wed Mar 28 2018 15:32:31 GMT-0700 (Pacific Daylight Time): TypeError: helpers.isURLArchived is not a function
+
+
+Wed Mar 28 2018 15:32:31 GMT-0700 (Pacific Daylight Time): TypeError: Cannot read property 'currentRetry' of undefined
+
+
+Wed Mar 28 2018 15:32:34 GMT-0700 (Pacific Daylight Time): AssertionError: expected [ 'www.example.com' ] to deeply equal [ 'www.example.com', 'www.google.com' ]
+
+
+Wed Mar 28 2018 15:33:14 GMT-0700 (Pacific Daylight Time): TypeError: helpers.isURLArchived is not a function
+
+
+Wed Mar 28 2018 15:33:14 GMT-0700 (Pacific Daylight Time): TypeError: Cannot read property 'currentRetry' of undefined
+
+
+Wed Mar 28 2018 15:33:17 GMT-0700 (Pacific Daylight Time): AssertionError: expected [ 'www.example.com' ] to deeply equal [ 'www.example.com', 'www.google.com' ]
+
+
