@@ -26,7 +26,6 @@ var methods = {
   'POST': function(request, response) {
     helpers.getData(request, function(data) {
       var url = data.split('=')[1].replace('http://', '');
-      // check sites.txt for web site
       archive.isUrlInList(url, function(found) {
         if (found) { 
           archive.isUrlArchived(url, function(exists) {
@@ -38,7 +37,6 @@ var methods = {
           });
         } else {
           archive.addUrlToList(url, function() {
-
             helpers.redirect(response, '/loading.html');
           });
         }
